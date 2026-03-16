@@ -13,4 +13,3 @@
 ## 주요기능 
 
 ## 동작영상
-https://github.com/Santa-Cloth/.github/blob/main/profile/demo.mp4
