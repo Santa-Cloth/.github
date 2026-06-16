@@ -22,7 +22,7 @@
 | <img src="https://github.com/eststar.png" width="400"> <br>[@eststar](https://github.com/eststar) | <img src="https://github.com/guswlrla.png" width="400"> <br>[@guswlrla](https://github.com/guswlrla) | <img src="https://github.com/nx2803.png" width="400"> <br>[@nx2803](https://github.com/nx2803) | <img src="https://github.com/khhjj5298.png" width="400"> <br>[@khhjj5298](https://github.com/khhjj5298) | <img src="https://github.com/carnelli95.png" width="400"> <br>[@carnelli95](https://github.com/carnelli95) |
 
 ## ⚙️ 프로젝트 아키텍처
-<img width="1655" height="722" alt="아키텍처2" src="https://github.com/user-attachments/assets/ebdb6f31-17a2-4c57-816a-3c19be21952f" />
+<img width="1634" height="658" alt="아키텍처" src="https://github.com/user-attachments/assets/f2c6fcf8-48c9-4b19-8ff3-e1881d1f7b28" />
 
 ## 🗂️ ERD
 <img width="800" height="800" alt="erd" src="https://github.com/user-attachments/assets/7725600b-1abd-4928-8c75-52b2373d9a02" />
@@ -38,7 +38,7 @@
   <img width="49%" alt="보유상품(9oz)목록" src="https://github.com/user-attachments/assets/b7e1904e-12c1-41ec-bbe5-839b3f3dd732" />
 
   ### 3. 스타일 분석 결과
-  > ResNet 또는 FashionCLIP 모델을 선택하여 스타일 분석 결과를 확인하고, 네이버 쇼핑 데이터를 활용한 패션 트렌드 정보 제공
+  > GCN 또는 FashionCLIP 모델을 선택하여 스타일 분석 결과를 확인하고, 네이버 쇼핑 데이터를 활용한 패션 트렌드 정보 제공
   <img width="49%" alt="gcn_분석결과" src="https://github.com/user-attachments/assets/c91e81a4-f7c5-460f-9a4b-36f93cae83a3" />
   <img width="49%" alt="clip_분석결과" src="https://github.com/user-attachments/assets/fb07a155-1093-4a2c-862c-89d71e45e86e" />
 
